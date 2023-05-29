@@ -1,0 +1,50 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "teste@gmail.com",
+      "password": "teste@123"
+    }
+  ],
+  "informacoes": [
+    {
+      "id": 1,
+      "foto": "https://github.com/alberocesar.png",
+      "nome": "Alberto Cesar",
+      "cargo": "Desenvolvedor de Software",
+      "resumo": "Teste 01"
+    }
+  ],
+  "experiencias": [
+    {
+      "id": 1,
+      "titulo": "Desenvolvedor software",
+      "descricao": "teste",
+      "tipo": "academico",
+      "anoInicio": "2023",
+      "anoFim": "2025"
+    },
+    {
+      "id": 2,
+      "titulo": "Desenvolvedor software pleno",
+      "descricao": "teste 04",
+      "tipo": "profissional",
+      "anoInicio": "2020",
+      "anoFim": "2023"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "link": "https://new-portfolio-comeia-fbry.vercel.app",
+      "image": "https://github.com/alberocesar.png",
+      "title": "Portfolio pessoal desenvolvido para o modulo React da Comeia"
+    },
+    {
+      "id": 2,
+      "link": "https://alberocesar.github.io/Chal-_comeiaAcademy/",
+      "image": "https://github.com/alberocesar.png",
+      "title": "Site E-commerce desenvolvido para curso Comeia"
+    }
+  ]
+}
